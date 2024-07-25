@@ -39,7 +39,5 @@ endpoints:
         ]
         fetch: false
       titleConvo: true
-      titleModel: 'gpt-4o-mini-2024-07-18'
+      titleModel: 'doubao-pro-128k'
       modelDisplayLabel: 'OpenAI'
-# See the Custom Configuration Guide for more information on Assistants Config:
-# https://www.librechat.ai/docs/configuration/librechat_yaml/object_structure/assistants_endpoint
