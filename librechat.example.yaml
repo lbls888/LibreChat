@@ -789,8 +789,8 @@ endpoints:
       baseURL: "https://api.together.xyz"
       models:
         default: [
-          "zero-one-ai/Yi-34B-Chat",
-          "Austism/chronos-hermes-13b",
+          "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo",
+          "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
           "DiscoResearch/DiscoLM-mixtral-8x7b-v2",
           "Gryphe/MythoMax-L2-13b",
           "lmsys/vicuna-13b-v1.5",
