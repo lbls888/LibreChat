@@ -112,7 +112,7 @@ endpoints:
     # OpenAI 端点配置
     - name: 'OpenAI'
       apiKey: '${OPENAI_API_KEY}'
-      baseURL: 'https://api.openai.com/v1'
+      baseURL: '${OPENAI_API_BASE_URL}'
       models:
         default: [
           'gpt-4o-mini-2024-07-18',
