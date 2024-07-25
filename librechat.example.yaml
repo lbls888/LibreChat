@@ -17,8 +17,8 @@ registration:
 endpoints:
   custom:
     - name: 'OpenAI'
-      apiKey: '${OPENAI_API_KEY}'
-      baseURL: '${OPENAI_API_BASE_URL}'
+      apiKey: 'user_provided'
+      baseURL: 'https://one.poplink.us.kg/v1'
       models:
         default: [
           'gpt-4o-mini-2024-07-18',
