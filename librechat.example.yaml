@@ -111,8 +111,8 @@ endpoints:
 
     # OpenAI 端点配置
     - name: 'OpenAI'
-      apiKey: '${OPENAI_API_KEY}'
-      baseURL: '${OPENAI_API_BASE_URL}'
+      apiKey: 'sk-7rNpCGUCQZHqRkmy582c876c4f984d36967f0651FaEb673a'
+      baseURL: 'https://one.poplink.us.kg/v1'
       models:
         default: [
           'gpt-4o-mini-2024-07-18',
