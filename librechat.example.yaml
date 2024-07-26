@@ -24,7 +24,7 @@ endpoints:
         default: [
           'gpt-4o-mini-2024-07-18',
           'llama-3.1-70b-versatile',
-          'deepseek-chat',
+          'gpt-4o',
           'abab6.5s-chat',
           'SparkDesk-v3.5',
           'gpt-4o-2024-05-13',
@@ -35,7 +35,6 @@ endpoints:
           'ERNIE-Speed-8K',
           'ERNIE-Speed-128K',
           'gemini-1.5-pro',
-          'claude-3-opus-20240229',
           'claude-3-5-sonnet-20240620'
           ]
         fetch: false
