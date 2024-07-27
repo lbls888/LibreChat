@@ -25,7 +25,7 @@ endpoints:
           'gpt-4o-mini-2024-07-18',
           'llama-3.1-70b-versatile',
           'gpt-4o',
-          'abab6.5s-chat',
+          'gpt-4o-mini',
           'SparkDesk-v3.5',
           'gpt-4o-2024-05-13',
           'command-r-plus',
